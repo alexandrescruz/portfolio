@@ -9,8 +9,8 @@ const Projects = () => {
       image: "/commercecs50.png",
       technologies: ["Html", "Css", "Javascript", "Django"],
       date: "2024",
-      github: "#",
-      live: "#"
+      github: "https://github.com/alexandrecruzdev/commercecs50",
+      live: "https://youtu.be/p_T3jNdH5yQ"
     },
     {
       title: "Task Management App",
@@ -18,8 +18,8 @@ const Projects = () => {
       image: "/gerenciador_mobile.png",
       technologies: ["Vue.js", "Firebase", "Socket.io", "PWA"],
       date: "2023",
-      github: "#",
-      live: "#"
+      github: "https://github.com/alexandrescruz",
+      live: "https://youtu.be/s0TN-miprls"
     },
     {
       title: "Rede Social Interativa",
@@ -27,8 +27,8 @@ const Projects = () => {
       image: "/networkcs50.png",
       technologies: ["Next.js", "TypeScript", "Chart.js", "MongoDB"],
       date: "2023",
-      github: "#",
-      live: "#"
+      github: "https://github.com/alexandrecruzdev/networkcs50",
+      live: "https://www.youtube.com/watch?v=SirCk41M73E"
     },
     {
       title: "Game Space Adventure",
@@ -36,8 +36,8 @@ const Projects = () => {
       image: "/imagem_spaceAdventure.png",
       technologies: ["Python", "TensorFlow", "React", "Docker", "AWS"],
       date: "2022",
-      github: "#",
-      live: "#"
+      github: "https://github.com/alexandrescruz",
+      live: "https://youtu.be/4Ta6EJXTeos"
     }
   ];
 

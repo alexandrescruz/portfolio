@@ -40,8 +40,8 @@ const About = () => {
 
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             <div>
-              <div className="w-full h-96 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl shadow-2xl">
-                <img src="/perfil.png" className="" alt="" />
+              <div className="w-full h-96 bg-gradient-to-r from-green-400 to-emerald-500 rounded-2xl shadow-2xl">
+                <img src="/perfil.png" className="" alt="Alexandre Dos Santos Cruz Desenvolvedor de Software, Freelancer e buscando uma oportunidade júnior no mercado de trabalho." />
               </div>
             </div>
             
